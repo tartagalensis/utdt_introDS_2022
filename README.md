@@ -14,7 +14,7 @@ Curso de introducción a la ciencia de datos con R - UTDT 2022
 
 
 
-- __CLASE 1__ Introducción a la ciencia de datos y a la programación en R
+### - __CLASE 1__ Introducción a la ciencia de datos y a la programación en R
 
 Docente: Angie Scetta
 
