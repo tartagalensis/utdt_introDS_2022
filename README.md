@@ -86,8 +86,16 @@ Acceso a información urbana georeferenciada en repositorios online. Introducci�
 
 # Bibliografía y sitios de consulta
 
-- [AnalizaR datos políticos](https://arcruz0.github.io/libroadp/)
+- [R para Ciencia de Datos](https://es.r4ds.hadley.nz/)
+
+- [Big Data Urbana](https://angiescetta.github.io/big-data-urbana/)
 
 - [Ciencia de Datos para Gente Sociable](https://bitsandbricks.github.io/ciencia_de_datos_gente_sociable/)
 
+- [AnalizaR datos políticos](https://arcruz0.github.io/libroadp/)
+
 - [Documento Técnico N°6: Ciencia de Datos para el Turismo](https://dnme-minturdep.github.io/DT6_ciencia_de_datos_turismo/index.html#documento-t%C3%A9cnico-n%C2%BA6---resumen)
+
+- [Analítica Urbana](https://analiticaurbana.netlify.app/)
+
+- [Geocomputation with R](https://geocompr.robinlovelace.net/)
