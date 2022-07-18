@@ -29,7 +29,7 @@ Docente: Angie Scetta
 
 Data wrangling: limpiando y ordenando datos. Funciones para la transformación de datos. Introducción al paquete tidyverse y sus funciones: select(), filter(), mutate(), arrange(), rename(), group_by(), summarise(). Concatenar funciones con “pipe” %>%.
 
-* [Slides - html](PRESENTACIONES/CLASE 2.html)
+* [Slides - html](PRESENTACIONES/CLASE%202.html)
 
 ### - __CLASE 3__: Pre procesamiento de datos
 
@@ -37,7 +37,7 @@ Docente: Franco Galeano
 
 Técnicas fundamentales para la transformación de datos. Cruce de fuentes de datos. Más funciones de tidyverse: bind_rows(), bind_cols(), _join(), gather(), pivot_longer(), spread(), pivot_wider().
 
-[Slides - html](PRESENTACIONES/CLASE 3.html)
+[Slides - html](PRESENTACIONES/CLASE%203.html)
 
 ### - __CLASE 4__: Visualización de datos I
 
