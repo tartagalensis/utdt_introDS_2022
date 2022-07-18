@@ -14,7 +14,7 @@ Curso de introducción a la ciencia de datos con R - UTDT 2022
 
 
 
-### - __CLASE 1__ Introducción a la ciencia de datos y a la programación en R
+### - __CLASE 1__: Introducción a la ciencia de datos y a la programación en R
 
 Docente: Angie Scetta
 
@@ -23,15 +23,15 @@ Docente: Angie Scetta
 * [Slides - html](PRESENTACIONES/CLASE 1.html)
 
 
-- __CLASE 2__ Análisis exploratorio y transformación de datos
+### - __CLASE 2__: Análisis exploratorio y transformación de datos
 
 Docente: Angie Scetta
 
 Data wrangling: limpiando y ordenando datos. Funciones para la transformación de datos. Introducción al paquete tidyverse y sus funciones: select(), filter(), mutate(), arrange(), rename(), group_by(), summarise(). Concatenar funciones con “pipe” %>%.
 
-[Slides - html](PRESENTACIONES/CLASE 2.html)
+* [Slides - html](PRESENTACIONES/CLASE 2.html)
 
-- __CLASE 3__ Pre procesamiento de datos
+### - __CLASE 3__: Pre procesamiento de datos
 
 Docente: Franco Galeano
 
