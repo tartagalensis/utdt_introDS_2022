@@ -20,7 +20,7 @@ Docente: Angie Scetta
 
 ¿Qué es la ciencia de datos? Ejemplos aplicados al Gobierno. Introducción a R, el entorno para analizar, modelar, visualizar y comunicar con datos. Carga y exploración de un dataset con R base.
 
-[Slides - html](PRESENTACIONES/CLASE 1.html)
+* [Slides - html](PRESENTACIONES/CLASE 1.html)
 
 
 - __CLASE 2__ Análisis exploratorio y transformación de datos
