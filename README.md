@@ -37,13 +37,15 @@ Docente: Franco Galeano
 
 Técnicas fundamentales para la transformación de datos. Cruce de fuentes de datos. Más funciones de tidyverse: bind_rows(), bind_cols(), _join(), gather(), pivot_longer(), spread(), pivot_wider().
 
-[Slides - html](PRESENTACIONES/CLASE%203.html)
+* [Slides - html](PRESENTACIONES/CLASE%203.html)
 
 ### - __CLASE 4__: Visualización de datos I
 
 Docente: Angie Scetta
 
 Narrando la ciudad con información. Cómo elegir la visualización adecuada para cada tipo de análisis. Relacionar variables numéricas: Gráfico de puntos con geom_point(). Relacionar variables numéricas y categóricas: Gráfico de barras con geom_bar(). Distribución de variable continua: Gráfico de histograma con geom_histogram().
+
+* [Slides - html](PRESENTACIONES/CLASE%204.html)
 
 ### - __CLASE 5__: Visualización de datos II
 
