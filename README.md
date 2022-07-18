@@ -2,8 +2,8 @@
 Curso de introducción a la ciencia de datos con R - UTDT 2022
 
 
-# [Franco Galeano](https://tartagalensis.netlify.app/)
-# [Angie Scetta](https://github.com/angiescetta)
+### [Franco Galeano](https://tartagalensis.netlify.app/)
+### [Angie Scetta](https://github.com/angiescetta)
 
 
 # Formato:
@@ -13,27 +13,39 @@ Curso de introducción a la ciencia de datos con R - UTDT 2022
 
 
 - __CLASE 1__ Introducción a la ciencia de datos y a la programación en R
-Docente Angie Scetta
+
+Docente: Angie Scetta
+
 ¿Qué es la ciencia de datos? Ejemplos aplicados al Gobierno. Introducción a R, el entorno para analizar, modelar, visualizar y comunicar con datos. Carga y exploración de un dataset con R base.
 
 - __CLASE 2__ Análisis exploratorio y transformación de datos
-Docente Angie Scetta
+
+Docente: Angie Scetta
+
 Data wrangling: limpiando y ordenando datos. Funciones para la transformación de datos. Introducción al paquete tidyverse y sus funciones: select(), filter(), mutate(), arrange(), rename(), group_by(), summarise(). Concatenar funciones con “pipe” %>%.
 
 - __CLASE 3__ Pre procesamiento de datos
-Docente Franco Galeano
+
+Docente: Franco Galeano
+
 Técnicas fundamentales para la transformación de datos. Cruce de fuentes de datos. Más funciones de tidyverse: bind_rows(), bind_cols(), _join(), gather(), pivot_longer(), spread(), pivot_wider().
 
 - __CLASE 4__ Visualización de datos I
-Docente Angie Scetta
+
+Docente: Angie Scetta
+
 Narrando la ciudad con información. Cómo elegir la visualización adecuada para cada tipo de análisis. Relacionar variables numéricas: Gráfico de puntos con geom_point(). Relacionar variables numéricas y categóricas: Gráfico de barras con geom_bar(). Distribución de variable continua: Gráfico de histograma con geom_histogram().
 
 - __CLASE 5__ Visualización de datos II
-Docente Franco Galeano
+
+Docente: Franco Galeano
+
 Representar datos numéricos a través de sus cuartiles: Gráfico de boxplot con geom_boxplot(). Representar proporciones: Gráfico de árbol con geom_treemap() y Gráfico de waffle con geom_waffle(). Ajustes estéticos: tipografía, paletas de colores. Nociones de graficación: forma, color, tamaño. Facetado de gráficos a partir de una variable.
 
 - __CLASE 6__ Visualización de datos III
-Docente Franco Galeano
+
+Docente: Franco Galeano
+
 ¿Cómo describir una base de datos? Uso del comando skimr::skim(). Media, mediana, moda, quintiles/deciles, correlación y análisis bivariados. Introducción a tablas con kable y kableextra.
 
 - __CLASE 7__ Detección de patrones temporales
