@@ -53,11 +53,15 @@ Docente: Franco Galeano
 
 Representar datos numéricos a través de sus cuartiles: Gráfico de boxplot con geom_boxplot(). Representar proporciones: Gráfico de árbol con geom_treemap() y Gráfico de waffle con geom_waffle(). Ajustes estéticos: tipografía, paletas de colores. Nociones de graficación: forma, color, tamaño. Facetado de gráficos a partir de una variable.
 
+* [Slides - html](PRESENTACIONES/CLASE%205.html)
+
 ### - __CLASE 6__: Visualización de datos III
 
 Docente: Franco Galeano
 
 ¿Cómo describir una base de datos? Uso del comando skimr::skim(). Media, mediana, moda, quintiles/deciles, correlación y análisis bivariados. Introducción a tablas con kable y kableextra.
+
+* [Slides - html](PRESENTACIONES/CLASE%206.html)
 
 ### - __CLASE 7__: Detección de patrones temporales
 
