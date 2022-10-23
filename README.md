@@ -69,11 +69,15 @@ Docente: Angie Scetta
 
 Analizar datos registrados a través del tiempo. Introducción al paquete lubridate y a la manipulación de datos temporales. Análisis temporal de los datos: ymd(). Líneas de tiempo: geom_line().
 
+* [Slides - html](PRESENTACIONES/CLASE%207.html)
+
 ### - __CLASE 8__: Información geográfica y mapas
 
 Docente: Angie Scetta
 
 Introducción a la temática Analítica Urbana. Big Data y Ciudad. Datos georreferenciados. Visualizando información geográfica. Capas y geometrías. Introducción al paquete sf. Analizar datos espaciales con geom_sf(). Unir dataset tradicional y dataset espacial con left_join().
+
+* [Slides - html](PRESENTACIONES/CLASE%208.html)
 
 ### - __CLASE 9__: Análisis y geoprocesamiento de datos
 
@@ -81,13 +85,15 @@ Docente: Angie Scetta
 
 Trabajando con información georreferenciada. Gráficos de densidad de puntos: geom_bin2d(). Cruzando datos en base a su posición: uniones espaciales con st_join(). Descarga de "mapas base" para agregar contexto. Repaso de sf e introducción a ggmap.
 
+* [Slides - html](PRESENTACIONES/CLASE%209.html)
+
 ### - __CLASE 10__: Descarga y análisis de datos espaciales
 
 Docente: Angie Scetta
 
 Acceso a información urbana georeferenciada en repositorios online. Introducción al paquete osmdata. Descarga y análisis de datos espaciales publicados en OpenStreetMap: osmdata_sf(). Introducción al desarrollo de mapas interactivos: leaflet().
 
-
+* [Slides - html](PRESENTACIONES/CLASE%210.html)
 
 
 # Bibliografía y sitios de consulta
