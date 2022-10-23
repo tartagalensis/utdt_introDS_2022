@@ -70,6 +70,7 @@ Docente: Angie Scetta
 Analizar datos registrados a través del tiempo. Introducción al paquete lubridate y a la manipulación de datos temporales. Análisis temporal de los datos: ymd(). Líneas de tiempo: geom_line().
 
 * [Slides - html](PRESENTACIONES/CLASE%207.html)
+* [Presentacion - pdf](PRESENTACIONES/2022%20_%20GCBA%20-%20Informacio%CC%81n%20Geogra%CC%81fica%20y%20Mapas.pdf)
 
 ### - __CLASE 8__: Información geográfica y mapas
 
@@ -93,7 +94,9 @@ Docente: Angie Scetta
 
 Acceso a información urbana georeferenciada en repositorios online. Introducción al paquete osmdata. Descarga y análisis de datos espaciales publicados en OpenStreetMap: osmdata_sf(). Introducción al desarrollo de mapas interactivos: leaflet().
 
-* [Slides - html](PRESENTACIONES/CLASE%210.html)
+* [Slides - html](PRESENTACIONES/CLASE%2010.html)
+* [Bonus track: Intro a OSM - html](PRESENTACIONES/Bonus%20track%20OSM.html)
+
 
 
 # Bibliografía y sitios de consulta
